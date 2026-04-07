@@ -1,0 +1,12 @@
+.env
+.env*
+node_modules/
+dist/
+*.csv
+*.log
+*.xlsx
+*.zip
+*.tar.gz
+*.bak
+*.tmp
+*.swp
